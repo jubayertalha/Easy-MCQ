@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarStyle">@style/ALDCAppBarStyle</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="ALDCAppBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <!-- Remove the shadow below the app bar -->
+        <item name="elevation">0dp</item>
+    </style>
+
+    <!-- Style for a tab that displays a category name -->
+    <style name="TestTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@android:color/black</item>
+        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabTextAppearance">@style/TestTabTextAppearance</item>
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="TestTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>

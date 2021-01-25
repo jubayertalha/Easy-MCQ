@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "703729580917",
+    "firebase_url": "https://easy-mcq.firebaseio.com",
+    "project_id": "easy-mcq",
+    "storage_bucket": "easy-mcq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703729580917:android:cf5a12f66afade6f",
+        "android_client_info": {
+          "package_name": "com.aldc.talha.aldc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703729580917-oqedvuvkak3qh98j1m5f6kcv8siononk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aldc.talha.aldc",
+            "certificate_hash": "246f619156a296a3a3e30e6f2a3dc2cbf94d4b2f"
+          }
+        },
+        {
+          "client_id": "703729580917-5ufcu03sk6tl546higdgeukte4nd3op6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ofeiE1wb13q-PP7j0NR1y0SmmkuFv-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703729580917-5ufcu03sk6tl546higdgeukte4nd3op6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
